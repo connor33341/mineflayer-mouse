@@ -11,6 +11,7 @@ out*
 .cache
 temp
 generated
+.pnpm-store
 
 coverage
 *.lcov
